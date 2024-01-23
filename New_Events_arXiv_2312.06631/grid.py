@@ -1,3 +1,6 @@
+# This file is used in Reading_data.ipynb to make 2D marginalized compilation plots 
+# containing new candidate events and previously reported events
+
 from copy import copy, deepcopy
 import json
 import os
