@@ -2,7 +2,7 @@
 This repo has data products form the IAS GW search with higher harmonics.
 
 Please feel free to email me at jayw@ias.edu if there are any issues or you need
-more files or data than currently uploaded here.
+more files or data than currently uploaded here. Different folders contain:
 
 
 1. The PE samples for the new events described in [arXiv:2312.06631](https://arxiv.org/abs/2312.06631) 
@@ -12,5 +12,7 @@ which contains details such as t_gps, can be downloaded from [google drive](http
 We provide a basic notebook in the folder to show how to read the data and make corner plots
 using cogwheel.
 
-2. The jupyter notebook to create a HM template bank described in [arXiv:2310.15233](https://arxiv.org/abs/2310.15233) will be available in January.
+2. The jupyter notebook to calculate the coherent marginalized score and for using the band eraser as described in [arXiv:2405.17400](https://arxiv.org/abs/2405.17400).
+ 
+2. The jupyter notebook to create a HM template bank described in [arXiv:2310.15233](https://arxiv.org/abs/2310.15233) will be available soon.
  Sorry for the delay.
