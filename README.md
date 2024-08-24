@@ -1,4 +1,5 @@
-# GW_higher_harmonics_search
+# Data products from the IAS-HM O3 search
+
 This repo has data products form the IAS GW search with higher harmonics in[arXiv:2312.06631](https://arxiv.org/abs/2312.06631).
  
 For running the pipeline on raw GW strain data from LVK, 
